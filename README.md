@@ -12,11 +12,13 @@ My role varies from team to team and person to person - this will be a very gene
 
 1. I am here to support you. My main objectives here are to support you in your personal development and growth, help you enjoy your work, coach you through any challenges or issues you face whilst also being responsible for handling your pastoral care such as holidays, approvals, sickness and regular catch ups. Ultimately I want you to be the best you can be and I'll go out of my way to understand you and support you to achieve that.
 
-2. I am here to guide the current and future technical direction of our product. My role here is to ensure we are aligned with team, product and wider technical strategies to ensure we can constantly ship high quality code and that our engineering efforts play nicely with other parts of the business. Ultimately I want to ensure we can deliver high quality working software at all times.
+2. I am here to guide the current and future technical direction of our product. My role here is to ensure we are aligned with team, product, business and wider technical strategies to ensure we can constantly ship high quality code in a way that benefits our product and  aligns with our wider business strategy. Ultimately I want to ensure we can deliver high quality working software at all times.
 
-3. I am here to advise and guide the team on best practices and standards, fostering continuous improvement and promoting collaboration across the business.
+3. I am here to advise and guide the team on best practices and standards, fostering continuous improvement and promoting collaboration across the business and ensuring we are shipping high quality, production ready systems.
 
-4. Sometimes, I'll write code, but if I do, it'll be happening as part of a pair or mob! I might step in from time to time to steer us out of trouble if things aren't going to plan. I avoid having full ownership of development of work where possible. 
+4. I am responsible for managing technical risks to our product, I'll ensure technical debt and technical risks are visible, well understood and mitigated. I'll also ensure that visibility and ownership of these risks are well understood by the team and any  mitigation required is a well agreed concencus.
+
+5. Sometimes, I'll write code, but if I do, it'll be happening as part of a pair or mob! I might step in from time to time to steer us out of trouble if things aren't going to plan. I avoid having full ownership of development of work where possible. 
 
 Ultimately though, my top priority is to ensure our team is healthy and moving forwards in the right direction. 
 
