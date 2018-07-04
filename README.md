@@ -10,7 +10,7 @@ I'm a Software Engineering Team Lead for Newsround and I line manage all softwar
 
 My role varies from team to team and person to person - this will be a very general guide and not exhaustive.
 
-1. I am here to support you. My main objectives here are to support you in your personal development and growth, help you enjoy your work, coach you through any challenges or issues you face, I'm also responsible for handling your pastoral care such as holidays, approvals, sickness and regular catch ups. Ultimately I want you to be the best you can be and I'll go out of my way to understand you and support you to achieve that.
+1. I am here to support you. My main objectives here are to support you in your personal development and growth, help you enjoy your work, coach you through any challenges or issues you face whilst also being responsible for handling your pastoral care such as holidays, approvals, sickness and regular catch ups. Ultimately I want you to be the best you can be and I'll go out of my way to understand you and support you to achieve that.
 
 2. I am here to guide the current and future technical direction of our product. My role here is to ensure we are aligned with team, product and wider technical strategies to ensure we can constantly ship high quality code and that our engineering efforts play nicely with other parts of the business. Ultimately I want to ensure we can deliver high quality working software at all times.
 
@@ -46,7 +46,7 @@ I also expect you to regularly give feedback to your peers - feedback is critica
 
 ## Catch Ups
 
-I will schedule a bi-weekly catch up in your diary when you join my team, it's important to know that these catch ups are your time to discuss anything that's on your mind, what you need, how you're doing, if there is anything I can help with and how you're progressing with your Objectives and Key Results. You should be leading these conversations and coming prepared - take a few moments before our catchup to write anything down you'd like to discuss with me, it can be hard thinking on the spot! 
+I will schedule a bi-weekly catch up in your diary when you join my team, it's important to know that these catch ups are your time to discuss anything that's on your mind, what you need, how you're doing, if there is anything I can help with and how you're progressing with your Objectives and Key Results. You should be leading these conversations and coming prepared - take a few moments before our catchup to write anything down anything you'd like to discuss with me, it can be hard thinking on the spot! 
 
 Sometimes we will go for a walk, coffee, canteen, ice-cream - it won't always be in a stuffy meeting room! 
 
@@ -54,9 +54,9 @@ Please don't wait until our catch up if something is on your mind or stressing y
 
 ## If you need something
 
-1. I often have headphones in, it helps me drown noise out when I'm working on a piece of work, but it doesn't mean I'm too busy to chat, just come pull up a chair, don't be worried about disturbing me!
+1. I often have headphones in, it helps me drown noise out when I'm working on something that requires thought, but it doesn't mean I'm too busy to chat, just come pull up a chair, don't be worried about disturbing me!
 
-2. Slack or email me - if you don't want to chat in person or if you want to arrange a private in-person conversation, just ping me! 
+2. Slack or email me - if you don't want to chat in person or if you want to arrange a private in-person conversation later, just ping me! 
 
 3. Fire me a calendar invite - I'll be there!
 
@@ -66,8 +66,8 @@ A huge part of my role is to ensure that we're all continuously learning new thi
 
 I believe we do our best work when we can truly be ourselves, be who you need to be in my team - if you feel like you can't for any reason please talk to me.
 
-Enjoy your time in my team.
-
 ## Have fun
 
 Software engineering can be an exhausting activity, I don't expect my team to sit in silence, have fun, thrive of each other and push yourselves further. 
+
+Enjoy your time in my team 💥, we succeed together 💪.
